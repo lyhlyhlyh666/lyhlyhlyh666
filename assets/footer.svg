@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-labelledby="title desc">
+  <title id="title">A quiet evening by the lake</title>
+  <desc id="desc">Soft sage and slate mountains beneath a warm apricot sunset, reflected in a still lake. Stay curious. Take it slow.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F7EAD8"/>
+      <stop offset="1" stop-color="#F1D9BA"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#B9C7C5"/>
+      <stop offset="1" stop-color="#DAE0D9"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="110" rx="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="110" fill="url(#sky)"/>
+    <circle cx="978" cy="38" r="25" fill="#EDBD8B" opacity="0.7"/>
+    <path d="M0 61 35 43 65 50 98 30 133 47 159 42 192 62 235 55 287 71 345 66 395 77 442 74 486 83 529 80 566 89 607 85 661 78 710 83 763 62 805 65 842 43 875 51 912 29 949 47 980 38 1012 53 1045 45 1083 64 1124 56 1172 70 1200 64v46H0Z" fill="#A6AAB6" opacity="0.7"/>
+    <path d="M0 70 38 65 85 78 128 60 167 73 205 66 246 82 294 72 329 83 382 78 428 88 477 84 527 91 572 87 617 92 666 88 710 91 756 77 801 83 848 69 881 74 921 61 959 69 1008 64 1049 78 1096 70 1140 83 1200 72v38H0Z" fill="#8EA6B2"/>
+    <path d="M0 83c48-13 75-2 112-4s76-13 119-2 70 5 106 11l115 8h325l101-9c46-13 68-5 110-14s73 8 106 6 70-9 106-2v33H0Z" fill="#899785"/>
+    <path d="M0 98c113-7 208-4 300-1 101 4 173 2 264-2 88-5 186-1 269 1 129 3 244 1 367-1v15H0Z" fill="url(#water)"/>
+    <g stroke="#F5E8D3" stroke-width="1.2" stroke-linecap="round" opacity="0.7">
+      <path d="M860 101h55m17 0h58m-269 5h87m-243-4h62m-346 5h92"/>
+    </g>
+    <text x="600" y="47" fill="#40545C" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1.7">Stay curious. Take it slow.</text>
+  </g>
+</svg>

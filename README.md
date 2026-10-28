@@ -1,16 +1,84 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/header.png" width="100%" alt="LiquorLeo — sunset over a quiet mountain lake" />
+</p>
 
-<!--
-**lyhlyhlyh666/lyhlyhlyh666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm [YOUR_NAME] 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>M.S. student at Nanjing University</b><br>
+  Researching <b>Agents, LLMs &amp; RL</b><br>
+  Probably drinking 🍺
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  📬 <b>Email:</b> [YOUR_EMAIL]<br>
+  <a href="https://github.com/lyhlyhlyh666">GitHub · @lyhlyhlyh666</a>
+</p>
+
+<p align="center">
+  <img src="assets/agents.svg" height="30" alt="AI Agents" />
+  <img src="assets/llms.svg" height="30" alt="Large Language Models" />
+  <img src="assets/rl.svg" height="30" alt="Reinforcement Learning" />
+</p>
+
+## 🔎 Research interests
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🤖 Agents</h3>
+      LLM-based agents<br>
+      Code agents
+    </td>
+    <td align="center" width="33%">
+      <h3>💬 LLMs</h3>
+      Large language<br>
+      models
+    </td>
+    <td align="center" width="33%">
+      <h3>🌱 RL</h3>
+      Reinforcement<br>
+      learning
+    </td>
+  </tr>
+</table>
+
+## 🎓 Education
+
+| Institution &amp; program | Years |
+| :--- | :--- |
+| **Nanjing University**<br>M.S. in [YOUR_MS_MAJOR] | [MS_START_YEAR] – Present |
+| **[YOUR_UNDERGRAD_UNIVERSITY]**<br>Bachelor's in [YOUR_UG_MAJOR] | [UG_START_YEAR] – [UG_END_YEAR] |
+
+## 🌙 Beyond the lab
+
+🍺 Probably drinking — and letting the ideas settle.
+
+<p>
+  <img src="assets/life.svg" height="30" alt="Probably drinking" />
+</p>
+
+<!-- OPTIONAL PHOTO GALLERY — REMOVE THIS ENTIRE OPENING LINE TO ENABLE
+<details>
+  <summary>📸 A little more of me · click to unfold</summary>
+  <br>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="assets/ai-portrait.png" width="320" alt="My AI-styled portrait" /><br>
+        <b>🤖 My AI alter ego</b>
+      </td>
+      <td align="center" width="50%">
+        <img src="assets/off-duty.jpg" width="320" alt="An off-duty moment" /><br>
+        <b>🍻 Off-duty moments</b>
+      </td>
+    </tr>
+  </table>
+</details>
+END OPTIONAL PHOTO GALLERY — REMOVE THIS ENTIRE CLOSING LINE TO ENABLE -->
+
+<br>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="A quiet mountain landscape in lake blue, sage, and sunset peach" />
+</p>

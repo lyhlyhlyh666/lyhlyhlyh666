@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="36" viewBox="0 0 144 36" role="img" aria-labelledby="title desc">
+  <title id="title">Off duty</title>
+  <desc id="desc">A soft slate-colored badge with a small drinking-mug icon.</desc>
+  <rect x="0.5" y="0.5" width="143" height="35" rx="17.5" fill="#ECEAF1" stroke="#B4B4C6"/>
+  <g fill="none" stroke="#686A85" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M19 13h13v12a3 3 0 0 1-3 3h-7a3 3 0 0 1-3-3V13Zm13 2h2a4 4 0 0 1 0 8h-2M23 17v7m5-7v7"/>
+    <path d="M19 13a3 3 0 0 1 2-5 3 3 0 0 1 5-1 3 3 0 0 1 5 2 2 2 0 0 1 1 4"/>
+  </g>
+  <text x="91" y="22.1" fill="#4F5069" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10.8" font-weight="700" letter-spacing="1">OFF DUTY</text>
+</svg>
