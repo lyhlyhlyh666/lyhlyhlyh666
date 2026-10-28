@@ -47,8 +47,8 @@
 
 | Institution &amp; program | Years |
 | :--- | :--- |
-| **Nanjing University**<br>M.S. in [YOUR_MS_MAJOR] | [MS_START_YEAR] – Present |
-| **[YOUR_UNDERGRAD_UNIVERSITY]**<br>Bachelor's in [YOUR_UG_MAJOR] | [UG_START_YEAR] – [UG_END_YEAR] |
+| **Nanjing University**<br>M.S. | 2025 – Present |
+| **Beijing Institute of Technology**<br>Bachelor | 2021 – 2025 |
 
 ## 🌙 Beyond the lab
 
