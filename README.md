@@ -2,7 +2,7 @@
   <img src="assets/header.png" width="100%" alt="LiquorLeo — sunset over a quiet mountain lake" />
 </p>
 
-<h1 align="center">Hi, I'm [YOUR_NAME] 👋</h1>
+<h1 align="center">Hi, I'm Yuhao Li 👋</h1>
 
 <p align="center">
   <b>M.S. student at Nanjing University</b><br>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  📬 <b>Email:</b> [YOUR_EMAIL]<br>
+  📬 <b>Email:</b> 502025330032@smail.nju.edu.cn<br>
   <a href="https://github.com/lyhlyhlyh666">GitHub · @lyhlyhlyh666</a>
 </p>
 
