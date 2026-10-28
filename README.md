@@ -27,7 +27,6 @@
   <tr>
     <td align="center" width="33%">
       <h3>🤖 Agents</h3>
-      LLM-based agents<br>
       Code agents
     </td>
     <td align="center" width="33%">
