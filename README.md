@@ -31,13 +31,11 @@
     </td>
     <td align="center" width="33%">
       <h3>💬 LLMs</h3>
-      Large language<br>
-      models
+      Large language models
     </td>
     <td align="center" width="33%">
       <h3>🌱 RL</h3>
-      Reinforcement<br>
-      learning
+      Reinforcement learning
     </td>
   </tr>
 </table>
